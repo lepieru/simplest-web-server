@@ -1,0 +1,17 @@
+{
+  "name": "simplest-web-server",
+  "version": "1.0.0",
+  "description": "The simplest (and useless) web server ever made",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "simple",
+    "useless",
+    "web",
+    "server"
+  ],
+  "author": "Pierre Le Gall",
+  "license": "MIT"
+}
